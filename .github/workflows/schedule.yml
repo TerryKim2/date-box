@@ -16,5 +16,5 @@ jobs:
         env:
           TYPE: DAY
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GIST_ID: 083bd5d100fd13ebbc46a473eb3f9de1
+          GIST_ID: 542f10300d02c139168a797164c7a61e
           RECORDS: "2024-12-25_크리스마스 | 2025-01-18 BirthDay"
